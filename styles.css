@@ -55,7 +55,7 @@
       width: 100%;
   }
   
-  /* Desktop PC view */
+  
   
   @media (min-width: 992px) {
    
@@ -65,7 +65,7 @@
       }
   }
   
-  /* Tablet PC view */
+  
   @media (min-width: 768px) and (max-width: 991px) {
    
     .col-md-6 {
@@ -77,7 +77,7 @@
       float: left;
     }
   }
-  /* Cell phone view */
+  
   @media (max-width: 767px)  {
     
     .col-sx-12 {
